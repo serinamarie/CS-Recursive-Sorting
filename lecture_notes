@@ -1,0 +1,12 @@
+merge sorting
+- divide in half until you have subarrays of length 1
+- merge sorted lists together
+- two arrays of length 1 become one array of length 2
+- compare the front of each subarrays until one of them is empty, then put everything left 
+in other subarray to the end of the subarray
+
+quick sorting
+- choose a pivot
+- move all elements less than the pivot to its LHS
+- and then all elements greater than the pivot will be on its RHS
+- repeat steps 1-3 until array sorted
