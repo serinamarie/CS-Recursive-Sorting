@@ -10,3 +10,6 @@ quick sorting
 - move all elements less than the pivot to its LHS
 - and then all elements greater than the pivot will be on its RHS
 - repeat steps 1-3 until array sorted
+
+- ie. for each element in the list, you are choosing a new 
+pivot until each are sorted
