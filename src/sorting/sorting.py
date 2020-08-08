@@ -7,6 +7,9 @@ def merge(arrA, arrB):
 
 
     return merged_arr
+arr1 = [9,8,7]
+arr2 = [6,5,4]
+print(merge(arr1,arr2))
 
 # TO-DO: implement the Merge Sort function below recursively
 def merge_sort(arr):
@@ -21,8 +24,9 @@ def merge_sort(arr):
 # or data structures; it can only re-use the memory it was given as input
 def merge_in_place(arr, start, mid, end):
     # Your code here
+    pass
 
 
 def merge_sort_in_place(arr, l, r):
     # Your code here
-
+    pass
